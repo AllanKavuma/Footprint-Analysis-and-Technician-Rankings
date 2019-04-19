@@ -1,0 +1,10 @@
+base
+knitr
+dplyr
+xlsx
+ggplot2
+reshape2
+gridExtra
+magrittr
+ggpubr
+xtable
